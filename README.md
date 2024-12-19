@@ -4,7 +4,7 @@ Company: CODTECH IT SOLUTIONS
 ID: CT08WD39
 Domain: EMBEDDED SYSTEMS
 Duration: 12TH DECEMBER 2024 TO 12 JANUARY 2025
-Mentor: SRAVANI GOUNI
+Mentor: N.SANTHOSH
 
 
 Project Name: Interface a DHT Sensor with Arduino and Display Readings on an LCD
